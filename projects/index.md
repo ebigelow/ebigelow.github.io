@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Projects
+description: Research projects I've worked on
 header-img: images/projects.jpg
 comments: false
 modified: 2015-12-23
 ---
 
 
-Here's some research projects I've worked on!
+
 
 
 <!-- NLP
@@ -21,20 +22,20 @@ I'm planning to aggregate code I wrote for homeworks in statistical NLP into coh
 ------------------------------
 
 A project that began as the final project for my computational semantics class. TODO
-
+ -->
 
 
 Tensor Decomposition for Lifestyle Analysis
 -------------------------------------------
 
-TODO -->
+TODO
 
 
 
 LOTlib
 ------
 
-The [language of thought hypothesis](https://en.wikipedia.org/wiki/Language_of_thought_hypothesis) asserts that our thoughts are composed by structures in a mental language. [LOTlib](https://github.com/piantado/LOTlib) is a library allowing researchers to easily formulate compositional cognitive models as probabilistic context-free grammars (PCFGs), and then do useful things such as sampling finite-depth trees generated from an infinite grammar and computing how likely a given hypothesis (tree) would be to generate a set of human data. My primary contribution to LOTlib was working on inferring probability distributions of PCFG parameters given human data, and a pre-computed set of hypothesis trees. 
+The [language of thought hypothesis](https://en.wikipedia.org/wiki/Language_of_thought_hypothesis) asserts that humans' thoughts are composed of structures obeying the syntax of mental languages. [LOTlib](https://github.com/piantado/LOTlib) is a library allowing researchers to easily formulate compositional cognitive models as probabilistic context-free grammars (PCFGs), and then do useful things such as sampling finite-depth trees generated from an infinite grammar and computing how likely a given hypothesis (tree) would be to generate a set of human data. My primary contribution to LOTlib was working on inferring probability distributions of PCFG parameters given human data, and a pre-computed set of hypothesis trees. 
 
 
 
@@ -45,7 +46,7 @@ The [language of thought hypothesis](https://en.wikipedia.org/wiki/Language_of_t
 Imagistic Modeling Specialist
 -----------------------------
 
-This was the first project that I had a major part in. Beginning as a semester of independent research in "bootstrapping lexical background knowledge", I was given the task of designing a specialist system for reasoning with visual & spatial knowledge, in the spirit of existing specialist systems for reasoning with knowledge about [part, time, and color relationships](https://www.cs.rochester.edu/~schubert/papers/type-part-color-and-time-relationships83.pdf). Over the summer, two other undergraduates joined the project, which continued through into the fall semester. The final system produced for this task was a simple proof-of-concept which, while not useful for any real-world task, demonstrates that constructing an IMS is possible, and highlights for us a number of challenges in this construction. We published [a paper]({{ site.url }}/publications) on this in the proceedings of the [2014 Conference on Biologically Inspired Cognitive Architectures](http://bicasociety.org/meetings/2014/) at MIT, where I also gave an oral presentation.
+This was the first project that I had a major part in. Beginning as a semester of independent research in "bootstrapping lexical background knowledge", I was given the task of designing a specialist system for reasoning with visual & spatial knowledge, in the spirit of existing specialist systems for reasoning with knowledge about [part, time, and color relationships](https://www.cs.rochester.edu/~schubert/papers/type-part-color-and-time-relationships83.pdf). Over the summer, two other undergraduates joined the project, which continued through the following semester. The final system produced for this task was a simple proof-of-concept which, while not useful for any real-world task, demonstrates that constructing an IMS is possible, and highlights for us a number of challenges in this construction. We published [a paper]({{ site.url }}/publications) on this in the proceedings of the [2014 Conference on Biologically Inspired Cognitive Architectures](http://bicasociety.org/meetings/2014/) at MIT, where I also gave an oral presentation.
 
 
 <!-- TODO: collapsable section
@@ -66,7 +67,9 @@ I think this is a very interesting problem, and we will have to find ways to ans
 Bloco: Miscommunication in Task-Oriented Dialogue
 -------------------------------------------------
 
-This was the first research project I worked on. It got me really excited about the structure of dialogue, and how it relates to the structue of complex actions we take in the world. The topics of [symbol grounding](https://en.wikipedia.org/wiki/Symbol_grounding_problem), [common ground](https://en.wikipedia.org/wiki/Grounding_in_communication), and [audience design vs. egocentric behavior](http://psychology.uchicago.edu/people/faculty/keysar/9_hortonkeysar96.pdf) are still of great interest to me. [Dialogue understanding](https://en.wikipedia.org/wiki/Dialog_system) is an [AI-hard problem](https://en.wikipedia.org/wiki/AI-complete) -- in my opinion, [the hardest](https://en.wikipedia.org/wiki/Turing_test). The Bloco project now lives [here](http://personal.kent.edu/~jroche3/current-research-projects/the-bloco-project-miscommun/).
+This was the first research project I worked on. It got me really excited about the structure of dialogue, and how it relates to the structue of complex actions we take in the world. The topics of [symbol grounding](https://en.wikipedia.org/wiki/Symbol_grounding_problem), [common ground](https://en.wikipedia.org/wiki/Grounding_in_communication), and [information structure in discourse](http://semanticsarchive.net/Archive/WYzOTRkO/InfoStructure.pdf) are still of great interest to me. The Bloco project now lives [here](http://personal.kent.edu/~jroche3/current-research-projects/the-bloco-project-miscommun/).
+
+<!-- [Dialogue understanding](https://en.wikipedia.org/wiki/Dialog_system) is an [AI-hard problem](https://en.wikipedia.org/wiki/AI-complete) -- in my opinion, [the hardest](https://en.wikipedia.org/wiki/Turing_test).  -->
 
 
 

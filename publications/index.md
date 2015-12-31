@@ -6,100 +6,20 @@ header-img: images/publications.jpg
 comments: false
 ---
 
-<!-- {% bibliography %} -->
 
 
-## Conference Papers
+Conference Papers
+-----------------
 
-{% bibliography --query @conf %}
+_E. Bigelow_ and S. Piantadosi, “Inferring priors in compositional cognitive models,” (*pending submission*).
 
-
-## Journal Articles 
-
-{% bibliography --query @jour %}
+_E. Bigelow_, D. Scarafoni, L. Schubert, and A. Wilson, “On the need for imagistic modeling in story understanding,” in *Biologically Inspired Cognitive Architectures 2014* (oral presentation), Cambridge, Mass., USA, November 2014.
 
 
+Journal Articles 
+----------------
 
-<!-- ## Journal Articles
------
+T. Hu, _E. Bigelow_, J. Luo, and H. Kautz, “Tales of Two Cities: Using Social Media to Understand Idiosyncratic Lifestyles in Distinctive Metropolitan Areas,” *IEEE Transactions on Big Data*, (*under review*).
 
-<div class='panel-pub'>
-<ol>
-{% for article in site.data.journal %}
-    <li>
-    <div class="title">
-    <span class="title">{{ article.title }}</span>
-    {% if article.fulltext %}
-        <a title="fulltext" href="{{ site.url }}/downloads/journal/{{ thesis.fulltext }}"><i class="fa fa-file-pdf-o"></i></a>
-    {% endif %}
-    </div>
-    <div class='author'>
-    {% for author in article.author %}
-        <span class='{{ author.role }}'>{{ author.family }}, {{ author.given_initial }}{% if author.role contains 'corr' %}*{% endif %}; </span>
-    {% endfor %}
-    </div>
-    <div class="pubinfo">
-    <span class="source">{{ article.journal.abbreviation }} </span><span class="year">{{ article.year }}, </span><span class="volume">{{ article.volume }}, </span><span class="page">{{ article.page }}.</span>{% if article.language != 'english' %}<span class="language"> (In {{ article.language }})</span>{% endif %}
-    </div>
-    <div class="url">
-        <a href="{{ article.URL }}">{{ article.URL }}</a>
-    </div>
-    </li>
-{% endfor %}
-</ol>
-</div>
+_E. Bigelow_ and S. Piantadosi, “A Large Dataset of Generalization Patterns in the Number Game,” *Journal of Open Psychology Data*, (*under final review*).
 
-## Presentations and Posters
------
-
-<div class='panel-pub'>
-<ol>
-{% for presentation in site.data.meeting %}
-    <li>
-    <div class="title">
-    <span class="title">{{ presentation.title }}</span>
-    {% if presentation.fulltext %}
-        <a title="fulltext" href="{{ site.url }}/downloads/meeting/{{ presentation.fulltext }}"><i class="fa fa-file-pdf-o"></i></a>
-    {% endif %}
-    </div>
-    <div class='author'>
-    {% for author in presentation.author %}
-        <span class='{{ author.role }}'>{{ author.family }}, {{ author.given_initial }}; </span>
-    {% endfor %}
-    </div>
-    <div class="pubinfo">
-    <span class="source">{{ presentation.source }} </span><span class="city">{{ presentation.city }}, </span><span class="year">{{ presentation.year }}.</span>
-    </div>
-    </li>
-{% endfor %}
-</ol>
-</div>
-
-## Thesis
------
-
-<div class='panel-pub'>
-<ol>
-{% for thesis in site.data.thesis %}
-    <li>
-    <div class="title">
-    <span class="title">{{ thesis.title }}</span>
-    {% if thesis.fulltext %}
-        <a title="fulltext" href="{{ site.url }}/downloads/thesis/{{ thesis.fulltext }}"><i class="fa fa-file-pdf-o"></i></a>
-    {% endif %}
-    </div>
-    <div class='author'>
-    {% for author in thesis.author %}
-        <span class='{{ author.role }}'>{{ author.family }}, {{ author.given_initial }}</span>
-    {% endfor %}
-    </div>
-    {% for advisor in thesis.advisor %}
-        <span class='advisor'>{{ advisor.role }}: {{ advisor.family }}, {{ advisor.given_initial }}</span>
-    {% endfor %}
-    <div class="pubinfo">
-    <span class="source">{{ thesis.source }} </span><span class="publisher">{{ thesis.publisher }}, </span><span class="year">{{ thesis.year }}.</span>
-    </div>
-    </li>
-{% endfor %}
-</ol>
-</div> -->

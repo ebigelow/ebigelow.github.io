@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 header-img: images/about.jpg
 comments: false
 ---
@@ -12,16 +12,13 @@ My name is Eric Bigelow and I'm a first-year Master's student in Computer Scienc
 Email: ebigelow@u.rochester.edu
 
 
+
 **CV - Resume**
 
 <div markdown="0">
     <a href="{{ site.url }}/CV/" class="btn btn-info">View HTML</a>
     <a href="{{ site.url }}/downloads/CV.pdf" class="btn btn-success">Download PDF</a>
 </div>
-
-## About This Website
-
-Eric's website blah blah blah.
 
 
 <!-- This website is powered by [LYX Jekyll theme](https://github.com/liuyxpp/liuyxpp.github.io). -->

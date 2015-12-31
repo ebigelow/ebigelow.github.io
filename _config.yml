@@ -39,10 +39,11 @@ bing_verify:
 timezone:    America/New_York
 future:      true
 highlighter: pygments
-markdown:    kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "underline"]
 gems:
   - jekyll-sitemap
-  # - jekyll/scholar
 sass:
   sass_dir: _sass
   style: compressed
@@ -76,25 +77,25 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "R
 
 
 
-# Jekyll Scholar settings
-scholar:
-  style: apa
-  locale: en
+# # Jekyll Scholar settings
+# scholar:
+#   style: apa
+#   locale: en
 
-  sort_by: year
-  order: descending
+#   sort_by: year
+#   order: descending
 
-  source: publications
-  bibliography: publications.bib
-  bibliography_template: "{{reference}}"
+#   source: publications
+#   bibliography: publications.bib
+#   bibliography_template: "{{reference}}"
 
-  replace_strings: true
-  join_strings:    true
+#   replace_strings: true
+#   join_strings:    true
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
+#   details_dir:    bibliography
+#   details_layout: bibtex.html
+#   details_link:   Details
 
-  query: "@*"
+#   query: "@*"
 
 

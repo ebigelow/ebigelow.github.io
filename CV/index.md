@@ -1,15 +1,17 @@
 ---
 layout: page
-title: curriculum vitae
+title: Curriculum Vitae
 header-img: images/CV.jpg
 comments: false
 ---
 
 
+<!-- TODO: fix spacing -->
 
 
 
-<div markdown="0" align="center"> Eric J. Bigelow </div> 
+# Eric J. Bigelow
+
 
 
 <br>
@@ -38,25 +40,30 @@ Machine learning, computational linguistics, computer vision.
 
 **Strong**: Python
 
-**Competent**: R, JavaScript
+**Competent**: R, Java, JavaScript
 
-**Passable**: Java, Bash, MATLAB, Haskell, Lisp, MySql
+**Passable**: MATLAB, Bash, Haskell, Lisp, MySql
 
 <br>
 
 
 ## Education
+<br>
 
 #### University of Rochester
 
-**M.S. in Computer Science**, *2015-Present*
+**M.S. in Computer Science**, *2015*-*Present*
+
 * Completed Coursework: Statistical NLP, Data Mining, Computational Semantics
+
 * Coursework in Spring 2016: Machine Learning, Computer Vision, Computational Neuroscience
 
-**B.A. in [Computer Science](http://cs.rochester.edu)**, *2010-2014*
+**B.A. in [Computer Science](http://cs.rochester.edu)**, *2010*-*2014*
+
 * Coursework includes: Logical Foundations of A.I., Natural Language Processing, Dialog Systems, Theory of Computation, Data Structures & Algorithm Analysis, Human-Computer Interaction
 
-**B.S. in [Brain & Cognitive Sciences](http://bcs.rochester.edu)**, *2010-2014*
+**B.S. in [Brain & Cognitive Sciences](http://bcs.rochester.edu)**, *2010*-*2014*
+
 * Coursework includes: Language & the Brain, Semantic Analysis, Psycholinguistics, Cognition
 
 
@@ -67,21 +74,23 @@ Machine learning, computational linguistics, computer vision.
 
 
 ## Work Experience
+<br>
 
 
 #### University of Rochester, Brain & Cognitive Sciences Department
 
 
-<!-- <div markdown="0"><div align="left", display="inline-block"><b><i>Lab Manager</i></b> <b><a href="https://colala.bcs.rochester.edu">The Computation & Language Lab</a> </b></div><div align="right", display="inline-block"><i>8/2014 - 8/2015</i></div></div> -->
 
-***Lab Manager***, **[Computation & Language Lab](https://colala.bcs.rochester.edu)**   *8/2014 - 8/2015*
+***Lab Manager***, **[Computation & Language Lab](https://colala.bcs.rochester.edu)** &nbsp;&nbsp;&nbsp;  *8/2014* - *8/2015* 
 
 * Led project implementing vectorized data analysis to infer posterior distributions over hyper-parameters in a Bayesian model of concept learning
+
 * Contributed to open-source Python library for statistical modeling
+
 * Designed 600+ participant numerical cognition study, distributed over Amazon Mechanical Turk
 
 
-***Research Assistant***, **Supervisor: Mike Tanenhaus**   *5/2012 - 11/2015*
+***Research Assistant***, **Supervisor: [Mike Tanenhaus](https://www.bcs.rochester.edu/people/mtan/mtan.html)**  &nbsp;&nbsp;&nbsp; *5/2012* - *11/2012* 
 
 Worked with experimental paradigm studying grounding and miscommunication in dialogue during collaborative problem solving task
 
@@ -94,17 +103,19 @@ Worked with experimental paradigm studying grounding and miscommunication in dia
 #### University of Rochester, Computer Science Department
 
 
-***Research Assistant***, **[Rochester Human-Computer Interaction Lab](https://www.cs.rochester.edu/hci/)**    *6/2015 - 8/2015*
+***Research Assistant***, **[Rochester Human-Computer Interaction Lab](https://www.cs.rochester.edu/hci/)**  &nbsp;&nbsp;&nbsp; *6/2015* - *8/2015* 
 
 
 
 * Applied supervised and unsupervised algorithms to a large multimodal dataset (the MIT Interview Dataset, pending public release)
+
 * Wrote Matlab code to perform time-series analysis, audio & video manipulation, data visualization, and for saving & loading data across functions in a common structured format
 
 
-***Research Assistant***, **Supervisor: Len Schubert**    *1/2013 - 5/2014*
+***Research Assistant***, **Supervisor: [Len Schubert](https://www.cs.rochester.edu/~schubert/)**  &nbsp;&nbsp;&nbsp; *1/2013* - *5/2014* 
 
 * Leading role in novel project to implement a specialist system for reasoning with spatial language as part of a larger natural language understanding framework; designed primary components of architecture
+
 * Worked with two other undergraduates in an independently organized group to develop specialist architecture and model database using Python
 
 
@@ -115,8 +126,23 @@ Worked with experimental paradigm studying grounding and miscommunication in dia
 
 
 ### Publications
+<br>
 
-See [publications page]({{ site.url }}/publications/).
+
+#### Conference Papers
+
+_E. Bigelow_ and S. Piantadosi, “Inferring priors in compositional cognitive models,” (*pending submission*).
+
+_E. Bigelow_, D. Scarafoni, L. Schubert, and A. Wilson, “On the need for imagistic modeling in story understanding,” in *Biologically Inspired Cognitive Architectures 2014* (oral presentation), Cambridge, Mass., USA, November 2014.
+
+
+#### Journal Articles 
+
+T. Hu, _E. Bigelow_, J. Luo, and H. Kautz, “Tales of Two Cities: Using Social Media to Understand Idiosyncratic Lifestyles in Distinctive Metropolitan Areas,” *IEEE Transactions on Big Data*, (*under review*).
+
+_E. Bigelow_ and S. Piantadosi, “A Large Dataset of Generalization Patterns in the Number Game,” *Journal of Open Psychology Data*, (*under final review*).
+
+
 
 <div markdown="0">
     <br><br>
