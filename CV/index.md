@@ -60,7 +60,7 @@ Machine learning, computational linguistics, computer vision
 
 * Spring 2016 coursework: Machine Learning, Computer Vision, Computational Neuroscience
 
-**B.A. in [Computer Science](http://cs.rochester.edu)**, *2010*-*2014*
+**B.A. in [Computer Science](http://cs.rochester.edu)**, *2012*-*2014*
 
 * Coursework includes: Logical Foundations of A.I., Natural Language Processing, Dialogue Systems, Theory of Computation, Data Structures & Algorithm Analysis, Human-Computer Interaction
 
@@ -148,6 +148,6 @@ _E. Bigelow_ and S. Piantadosi, “A Large Dataset of Generalization Patterns in
 
 <div markdown="0">
     <br><br>
-    <a href="{{ site.url }}/downloads/CV.pdf" class="btn btn-success">PDF Version</a>
+    <a href="{{ site.url }}/CV/CV.pdf" class="btn btn-success">PDF Version</a>
 </div>
 

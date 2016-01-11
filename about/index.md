@@ -9,7 +9,7 @@ comments: false
 
 My name is Eric Bigelow and I'm a first-year Master's student in Computer Science at the University of Rochester, located in balmy upstate New York.
 
-I like thinking about cognitive science, linguistics, and all things A.I. These days, this is mostly focused around various topics in NLP, computer vision, and machine learning.  
+I like thinking about brains, language, and all things A.I. These days, this is mostly focused around various topics in NLP, computer vision, and machine learning.  
 
 I love juggling and poi, sometimes I play music, and once in a while I take photos (all the photos on this site are my own).
 
@@ -25,7 +25,7 @@ Email: ebigelow@u.rochester.edu
 
 <div markdown="0">
     <a href="{{ site.url }}/CV/" class="btn btn-info">HTML</a>
-    <a href="{{ site.url }}/downloads/CV.pdf" class="btn btn-success">PDF</a>
+    <a href="{{ site.url }}/CV/CV.pdf" class="btn btn-success">PDF</a>
 </div>
 
 
