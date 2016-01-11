@@ -18,7 +18,7 @@ comments: false
 
 ### Research Interests
 
-Machine learning, computational linguistics, computer vision.
+Machine learning, computational linguistics, computer vision
 
 ### Skills
 
@@ -28,9 +28,11 @@ Machine learning, computational linguistics, computer vision.
 
 * Adept Python coder, able to efficiently write clean, well-documented code; familiarity with a variety of data science tools such as: numpy, scipy, matplotlib, Jupyter Notebook, scikit-learn, mpi4py, nltk, opencv
 
-<!-- * Capable in LaTeX, git,  -->
+* Experience with git, LaTeX, cluster computing, unix filesystem & command-line tools
 
-<!-- * ML technologies used include: k-means clustering, kernel k-means, FP-growth, LASSO, perceptron, conditional random fields -->
+<!-- various machine learning technologies including: k-means (including kernel km), FP-growth & a priori pattern mining, simple perceptrons, conditional random fields, markov chain monte carlo methods, ... -->
+
+
 
 
 <br>
@@ -40,14 +42,14 @@ Machine learning, computational linguistics, computer vision.
 
 **Strong**: Python
 
-**Competent**: R, Java, JavaScript
+**Competent**: R, JavaScript
 
-**Passable**: MATLAB, Bash, Haskell, Lisp, MySql
+**Passable**: Java, MATLAB, Bash, Haskell, Lisp, MySql
 
 <br>
 
 
-## Education
+### Education
 <br>
 
 #### University of Rochester
@@ -56,15 +58,15 @@ Machine learning, computational linguistics, computer vision.
 
 * Completed Coursework: Statistical NLP, Data Mining, Computational Semantics
 
-* Coursework in Spring 2016: Machine Learning, Computer Vision, Computational Neuroscience
+* Spring 2016 coursework: Machine Learning, Computer Vision, Computational Neuroscience
 
 **B.A. in [Computer Science](http://cs.rochester.edu)**, *2010*-*2014*
 
-* Coursework includes: Logical Foundations of A.I., Natural Language Processing, Dialog Systems, Theory of Computation, Data Structures & Algorithm Analysis, Human-Computer Interaction
+* Coursework includes: Logical Foundations of A.I., Natural Language Processing, Dialogue Systems, Theory of Computation, Data Structures & Algorithm Analysis, Human-Computer Interaction
 
 **B.S. in [Brain & Cognitive Sciences](http://bcs.rochester.edu)**, *2010*-*2014*
 
-* Coursework includes: Language & the Brain, Semantic Analysis, Psycholinguistics, Cognition
+* Coursework includes: Language & the Brain, Semantic Analysis, Psycholinguistics, Cognition, Perception & Action, Music & the Mind
 
 
 
@@ -73,7 +75,7 @@ Machine learning, computational linguistics, computer vision.
 
 
 
-## Work Experience
+### Work Experience
 <br>
 
 
@@ -83,7 +85,7 @@ Machine learning, computational linguistics, computer vision.
 
 ***Lab Manager***, **[Computation & Language Lab](https://colala.bcs.rochester.edu)** &nbsp;&nbsp;&nbsp;  *8/2014* - *8/2015* 
 
-* Led project implementing vectorized data analysis to infer posterior distributions over hyper-parameters in a Bayesian model of concept learning
+* Implemented vectorized data analysis to infer posterior distributions over PCFG parameters in a Bayesian model of concept learning
 
 * Contributed to open-source Python library for statistical modeling
 
@@ -146,6 +148,6 @@ _E. Bigelow_ and S. Piantadosi, “A Large Dataset of Generalization Patterns in
 
 <div markdown="0">
     <br><br>
-    <a href="{{ site.url }}/downloads/CV.pdf" class="btn btn-success">Download PDF Version</a>
+    <a href="{{ site.url }}/downloads/CV.pdf" class="btn btn-success">PDF Version</a>
 </div>
 

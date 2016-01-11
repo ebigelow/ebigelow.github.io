@@ -6,8 +6,13 @@
 - title:    About
   url:      /about/
 
+- title:    CV
+  url:      /CV/
+
 - title:    Projects
   url:      /projects/
+
+
 
 # - title:    Publications
 #   url:      /publications/
@@ -18,6 +23,6 @@
 # - title:    Blog
 #   url:      /blog/
 
-- title:    Fun Stuff
-  url:      /fun/
+# - title:    Fun Stuff
+#   url:      /fun/
 
