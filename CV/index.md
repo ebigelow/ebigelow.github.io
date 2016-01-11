@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-header-img: images/CV.jpg
+header-img: images/cv.jpg
 comments: false
 ---
 
