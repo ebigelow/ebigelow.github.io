@@ -17,6 +17,10 @@ modified: 2015-12-23
 I'm planning to aggregate code I wrote for homeworks in statistical NLP into coherent scripts for part-of-speech tagging and machine translation (TODO...) -->
 
 
+RNNs with CNN Features for Emotion Classification of Animated Gifs
+------------------------------------------------------------------
+
+
 
 Syntax-Driven Tensor-Based Compositional Distibutional Semantics
 ----------------------------------------------------------------

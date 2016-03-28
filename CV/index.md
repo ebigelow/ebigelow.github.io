@@ -18,7 +18,7 @@ comments: false
 
 ### Research Interests
 
-Machine learning, computational linguistics, computer vision
+Computational linguistics, computer vision, deep learning
 
 ### Skills
 
@@ -26,7 +26,7 @@ Machine learning, computational linguistics, computer vision
 
 * Working knowledge of variety of NLP, machine learning, data analysis, & data visualization techniques
 
-* Adept Python coder, able to efficiently write clean, well-documented code; familiarity with a variety of data science tools such as: numpy, scipy, matplotlib, Jupyter Notebook, scikit-learn, mpi4py, nltk, opencv
+* Adept Python coder, able to efficiently write clean, well-documented code; familiarity with a variety of data science tools: numpy, scipy, matplotlib, Jupyter Notebook, scikit-learn, scikit-image, mpi4py, nltk, opencv, tensorflow
 
 * Experience with git, LaTeX, cluster computing, unix filesystem & command-line tools
 
@@ -58,7 +58,7 @@ Machine learning, computational linguistics, computer vision
 
 * Completed Coursework: Statistical NLP, Data Mining, Computational Semantics
 
-* Spring 2016 coursework: Machine Learning, Computer Vision, Computational Neuroscience
+* Current Coursework: Machine Learning, Computer Vision, Computational Neuroscience, Network Science (auditing)
 
 **B.A. in [Computer Science](http://cs.rochester.edu)**, *2012*-*2014*
 
@@ -68,6 +68,12 @@ Machine learning, computational linguistics, computer vision
 
 * Coursework includes: Language & the Brain, Semantic Analysis, Psycholinguistics, Cognition, Perception & Action, Music & the Mind
 
+
+#### Online Courses
+
+* [Machine Learning](TODO_LINK)
+* [Control of Mobile Robots](TODO_LINK)
+* [Deep Learning for Natural Language Processing](TODO_LINK)
 
 
 <br>
@@ -133,16 +139,16 @@ Worked with experimental paradigm studying grounding and miscommunication in dia
 
 #### Conference Papers
 
-_E. Bigelow_ and S. Piantadosi, “Inferring priors in compositional cognitive models,” (*pending submission*).
+_E. Bigelow_ and S. Piantadosi, “Inferring priors in compositional cognitive models,” (*under review*).
 
 _E. Bigelow_, D. Scarafoni, L. Schubert, and A. Wilson, “On the need for imagistic modeling in story understanding,” in *Biologically Inspired Cognitive Architectures 2014* (oral presentation), Cambridge, Mass., USA, November 2014.
 
 
 #### Journal Articles 
 
-T. Hu, _E. Bigelow_, J. Luo, and H. Kautz, “Tales of Two Cities: Using Social Media to Understand Idiosyncratic Lifestyles in Distinctive Metropolitan Areas,” *IEEE Transactions on Big Data*, (*under review*).
+T. Hu, _E. Bigelow_, J. Luo, and H. Kautz, “Tales of Two Cities: Using Social Media to Understand Idiosyncratic Lifestyles in Distinctive Metropolitan Areas,” *IEEE Transactions on Big Data*, (*accepted*).
 
-_E. Bigelow_ and S. Piantadosi, “A Large Dataset of Generalization Patterns in the Number Game,” *Journal of Open Psychology Data*, (*under final review*).
+_E. Bigelow_ and S. Piantadosi, “A Large Dataset of Generalization Patterns in the Number Game,” *Journal of Open Psychology Data*, (*accepted*).
 
 
 
